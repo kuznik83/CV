@@ -73,7 +73,7 @@
 
 <div>
     <table>
-        <th colspan="2">Last Work Position</th>
+        <th colspan="2">Last Work Position.</th>
         <tr>
             <td>Company Name</td>
             <td>
