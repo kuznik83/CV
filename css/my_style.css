@@ -1,0 +1,39 @@
+fieldset{
+    border: 1px solid black;
+    width: 600px;
+}
+input{
+    border: 1px solid darkgray;
+    font-size: 14px;
+    margin-bottom: 3px;
+}
+#info input{
+    display: block;
+}
+select{
+    border: 1px solid darkgray;
+    font-size: 14px;
+    width: 130px;
+}
+#prlang select{
+    margin-left: 3px;
+}
+#lang select{
+    margin-left: 5px;
+}
+table {
+    border: 1px solid black;
+    border-spacing: 2px 2px;
+    margin-left: 50px;
+    margin-bottom: 30px;
+}
+td{
+    border: 1px solid black;
+    padding: 2px;
+    text-align: left;
+}
+th{
+    border: 1px solid black;
+    padding: 2px;
+    text-align: center;
+}
